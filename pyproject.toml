@@ -10,10 +10,10 @@ authors = [{ name = "Dillon Barendt" }]
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
-  "fastapi[standard]>=0.141.1,<0.142.0",
+  "fastapi[standard]>=0.142.2,<0.143.0",
   "pydantic-ai-slim>=2.33.0,<3.0.0",
   "pydantic-settings>=2.15.0,<3.0.0",
-  "uvicorn[standard]>=0.52.3,<0.53.0",
+  "uvicorn[standard]>=0.54.0,<0.55.0",
 ]
 
 [tool.uv]
